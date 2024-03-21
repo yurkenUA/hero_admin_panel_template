@@ -1,0 +1,90 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "82ca3347-6a8b-4289-b1d0-8e99eba9c6a0",
+      "name": "Юрій Затока",
+      "description": "All",
+      "element": "wind"
+    },
+    {
+      "id": "2c174045-3d53-44c4-919f-e2001ce38006",
+      "name": "James Bond",
+      "description": "SuperAgent",
+      "element": "fire"
+    },
+    {
+      "id": "9c70d171-9156-4c0d-89d7-de249aacaa0f",
+      "name": "Spider Man",
+      "description": "spider man",
+      "element": "wind"
+    },
+    {
+      "id": "c9b6e151-2dc2-4ea0-b367-7419f8f26f7b",
+      "name": "adasd",
+      "description": "asdasd",
+      "element": "water"
+    },
+    {
+      "id": "c855efba-0c10-4e58-9ef0-f80238d76771",
+      "name": "Юрій Затока",
+      "description": "asdasd",
+      "element": "Я владею элементом..."
+    },
+    {
+      "id": "53774df1-7739-4777-a831-7ee5577ce517",
+      "name": "Юрій Затока",
+      "description": "  cvxcv",
+      "element": "earth"
+    },
+    {
+      "id": "019826c4-e84d-4361-9552-d113797ce42f",
+      "name": "sdfsdf",
+      "description": "adad",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
